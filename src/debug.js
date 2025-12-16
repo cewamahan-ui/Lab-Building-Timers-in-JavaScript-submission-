@@ -7,7 +7,7 @@
 //console.log = (msg) => {
   //logs.push(msg);
   //originalLog(`[LOG]: ${msg}`);
-};
+//};
 
 //console.log('=== Testing countdownTimer ===');
 //const timer = countdownTimer(5, 1000);
